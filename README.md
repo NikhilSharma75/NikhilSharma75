@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil Sharma</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on Book Store Application
+- 🔭 I’m currently working on Course Selling Website
 
 - 🌱 I’m currently learning **more about mern stack**
 
